@@ -3,8 +3,9 @@
 Bu proje, yolcuların farklı ulaşım firmalarıdan rezervasyon yapabildiği bir sistemden oluşmaktadır. Sistemin temel ö̈zellikleri, admin, firma ve kullanıcı panellerini içermektedir. 
 Bu sistem, kullanıcı dostu bir arayüz ve ayrıntılarıyla birlikte, yönetim ve firmalar için gerekli kontrolleri sağlamak adına bir dizi ö̈zellik barındırılmaktadır.
 
-Programın ana amacı, farklı ulaşım firmalarına ait seyahat bilgilerini düzenli bir şekilde saklamak ve yönetmektir.
+Programın ana amacı, farklı ulaşım firmalarına ait seyahat bilgilerini veri yapıları kullanılarak düzenli bir şekilde saklamak ve yönetmektir.
 Örneğin, her bir firma için otobüs, uçak ve tren bilgileri ayrı listelerde tutulmaktadır. Bu modüler yaklaşım, programın düzenli ve sürdürülebilir bir yapıya sahip olmasını sağlar.
+Ayrıca güzergahlar da listelerde tutulup, girilen kalkış ve varış noktasına göre arama yapılarak belirlenmektedir.
 Sınıflar aracılığıyla özelliklere erişim, ilgili get ve set metotları kullanılarak sağlanmaktadır.
  
 ![image](https://github.com/user-attachments/assets/392aa3dc-2f0b-4f0f-940f-176dcb586ed4)
